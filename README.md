@@ -34,25 +34,33 @@ El template sirve para **ganar tiempo** durante la creacion de un proyecto, evit
 ## Guia de Instalacion
 
 `1) Ir a la carpeta donde se descargo el repositorio`
+
 ![Folder](/img/folder.png "Carpeta contenedora")
 
 `2) Click en un lugar vacio y abrir la terminal`
+
 ![Click](/img/open.png "Abrir la terminal de windows en este directorio")
 
 `3) Instalar el template mediante el siguiente comando`
+
 ```powershell
 dotnet new --install .
 ```
+
 ![Command](/img/command.png "Comando de instalacion")
 
 `Una vez instalado aparece este mensaje`
+
 ![Mensaje](/img/installed.png "Instalado")
 
 `Verificar instalacion en la lista de templates de .NET`
+
 ![ListCmd](/img/listCom.png "Comando para ver listado")
+
 ```powershell
 dotnet new --list
 ```
+
 ![Lista](/img/list.png "Lista de templates")
 
 ---
